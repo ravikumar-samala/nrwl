@@ -15,7 +15,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nrwl-project/admin/dashboard": ["libs/admin/dashboard/src/index.ts"],
+      "@nrwl-project/client/home": ["libs/client/home/src/index.ts"],
+      "@nrwl-project/client/auth": ["libs/client/auth/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

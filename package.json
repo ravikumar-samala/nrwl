@@ -43,9 +43,11 @@
     "@ngrx/store": "^8.3.0",
     "@ngrx/store-devtools": "^8.3.0",
     "@nrwl/angular": "8.5.0",
+    "@nrwl/schematics": "^8.5.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.4.0",
-    "zone.js": "^0.9.1"
+    "zone.js": "^0.9.1",
+    "@ngrx/entity": "8.3.0"
   },
   "devDependencies": {
     "@angular/cli": "8.3.3",
@@ -67,6 +69,8 @@
     "@types/jest": "24.0.9",
     "ts-jest": "24.0.0",
     "cypress": "3.4.1",
-    "@nrwl/cypress": "8.5.0"
+    "@nrwl/cypress": "8.5.0",
+    "@ngrx/schematics": "8.3.0",
+    "@ngrx/store-devtools": "8.3.0"
   }
 }

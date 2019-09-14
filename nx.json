@@ -13,6 +13,27 @@
     },
     "nrwlproject": {
       "tags": []
+    },
+    "admin-e2e": {
+      "tags": []
+    },
+    "admin": {
+      "tags": []
+    },
+    "client-e2e": {
+      "tags": []
+    },
+    "client": {
+      "tags": []
+    },
+    "admin-dashboard": {
+      "tags": []
+    },
+    "client-home": {
+      "tags": []
+    },
+    "client-auth": {
+      "tags": []
     }
   }
 }
